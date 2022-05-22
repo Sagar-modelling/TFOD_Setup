@@ -15,7 +15,7 @@ conda create -n tfod python=3.7 -y
 <br/>
 <b>Step 2.</b> Activate your virtual environment
 <pre>
-conda activate tfod
+conda activate od
 </pre>
 <br/>
 <b>Step 3.</b> Install dependencies and add virtual environment to the Python Kernel
